@@ -8,6 +8,11 @@ Welcome to the BrainCapture EEG Analysis Hackathon!
 
 This hackathon challenges participants to leverage artificial intelligence techniques to enhance EEG analysis. BrainCapture utilizes an advanced transformer model to map segments of EEG data into a latent, high-dimensional space, encapsulating pertinent information within the EEG signals. Your task is to create a cloud pipeline for analyzing these latent representations.
 
+# What are EEGs?
+Electroencephalography (EEG) is a non-invasive method for recording electrical activity in the brain. It is commonly used to diagnose epilepsy, sleep disorders, and other brain-related conditions. EEGs are also used in research to study brain activity and cognitive processes. By analyzing EEG data, researchers can gain insights into brain function and develop new treatments for neurological disorders. An example of an EEG signal is shown below.
+
+<img src="figs/eeg_example.jpg" width="600">
+
 ## Scope of the hackathon
 
 The aim of this hackathon is to develop a cloud-based pipeline for analyzing EEG data using artificial intelligence techniques. Specifically, participants are tasked with the following:
@@ -29,11 +34,11 @@ The challenge can be approached in various ways. Some suggested approaches inclu
 
 To aid participants in the hackathon, the following materials will be provided:
 
-- Two EEG datasets (BC Bhutan and TUAR)
-- A model for encoding EEG data into latent representations
-- Sample code for simple learning algorithms (e.g., KNN) and EEG data visualizations
-- Sample code for deploying a simple website
-- A guide for deploying to the Google Cloud Platform
+- Two EEG datasets (BC Bhutan and TUAR) (see [data](data/))
+- A model for encoding EEG data into latent representations (see [BENDR Model](models/))
+- Sample code for simple learning algorithms (e.g., KNN) and EEG data visualizations (see [Simple Learning Algorithm Demo](demos/knn.ipynb) and [EEG Data Visualization Demo](demos/visualizations.ipynb))
+- Sample code for deploying a simple website (see [Deployment Demo](demos/app/))
+- A guide for deploying to the Google Cloud Platform (see [GCP Deployment Guide](docs/gcp_deployment.md))
 
 ## Evaluation Criteria
 
@@ -50,6 +55,10 @@ Submissions will be evaluated based on the following criteria:
 For detailed instructions on setting up the project and accessing provided materials, refer to the [Getting Started Guide](docs/getting_started.md).
 
 For deploying your solution to the Google Cloud Platform, follow the steps outlined in the [GCP Deployment Guide](docs/gcp_deployment.md).
+
+## Getting help and support
+
+If you have any questions or need help with the hackathon, please reach out to the organizers or post your question in the Discord. We also encourage you to collaborate with other teams to solev issues and share ideas.
 
 ## License
 
