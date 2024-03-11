@@ -1,6 +1,6 @@
 # Copenhagen Medtech X Google Cloud X BrainCapture Hackathon
 
-<img src="figs/logos/cm_logo.png" width="300"> <img src="figs/logos/gcp_logo.png" width="300"> <img src="/figs/logos/bc_logo.png" width="300">
+<img src="figs/logos/cm_logo.png" width="30%"> <img src="figs/logos/gcp_logo.png" width="30%"> <img src="/figs/logos/bc_logo.png" width="30%">
 
 ## Introduction
 
