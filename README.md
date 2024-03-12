@@ -1,6 +1,6 @@
 # Copenhagen Medtech X Google Cloud X BrainCapture Hackathon
 
-<img src="figs/logos/cm_logo.png" width="300">  <img src="figs/logos/gcp_logo.png" width="300"> <img src="/figs/logos/bc_logo.png" width="300">
+<img src="figs/logos/cm_logo.png" width="30%"> <img src="figs/logos/gcp_logo.png" width="30%"> <img src="/figs/logos/bc_logo.png" width="30%">
 
 ## Introduction
 
@@ -8,10 +8,10 @@ Welcome to the BrainCapture EEG Analysis Hackathon!
 
 This hackathon challenges participants to leverage artificial intelligence techniques to enhance EEG analysis. BrainCapture utilizes an advanced transformer model to map segments of EEG data into a latent, high-dimensional space, encapsulating pertinent information within the EEG signals. Your task is to create a cloud pipeline for analyzing these latent representations.
 
-# What are EEGs?
+## What are EEGs?
 Electroencephalography (EEG) is a non-invasive method for recording electrical activity in the brain. It is commonly used to diagnose epilepsy, sleep disorders, and other brain-related conditions. EEGs are also used in research to study brain activity and cognitive processes. By analyzing EEG data, researchers can gain insights into brain function and develop new treatments for neurological disorders. An example of an EEG signal is shown below.
 
-<img src="figs/eeg_example.jpg" width="600">
+<img src="figs/eeg_example.jpg" width="900">
 
 ## Scope of the hackathon
 
